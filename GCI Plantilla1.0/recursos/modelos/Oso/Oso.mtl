@@ -1,0 +1,22 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl oso:toy_dog_body1
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Admin/Desktop/Archivos/POO/POO/POO/POO/Plantilla/Plantilla-POO/PF POO/Modelos/Laptop/oso/11706_toy_dog_diffuse_v2.jpg
+
+newmtl oso:toy_dog_parts1
+Ns 49.000000
+Ka 0.020000 0.020000 0.020000
+Kd 0.020000 0.020000 0.020000
+Ks 0.830000 0.830000 0.830000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
