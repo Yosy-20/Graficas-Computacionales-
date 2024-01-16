@@ -23,11 +23,7 @@ en un escenario virtual, ambientes realistas o fantásticos, así como el manejo
 Escenario virtual
 
 ![Escenario virtual](imagenes/screenshot1.png)
-![Escenario virtual](imagenes/screenshot2.png)
-![Escenario virtual](imagenes/screenshot3.png)
-![Escenario virtual](imagenes/screenshot4.png)
-![Escenario virtual](imagenes/screenshot5.png)
-![Escenario virtual](imagenes/screenshot6.png)
+
 ### Tecnologias
 Este proyecto fue realizado con:
 * C++
