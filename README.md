@@ -32,10 +32,11 @@ Escenario virtual
 Este proyecto fue realizado con:
 * C++
 * GLSL
-* C 
+* C
+
 Los modelos fueron realizados en:
 * Maya
 * Blender
 * Ps
 ### Idioma
-Variables de modelos, y comentarios se realizaron en español. el resto en ingles.
+Variables de modelos, y comentarios se realizaron en español, el resto en ingles.
