@@ -22,7 +22,11 @@ en un escenario virtual, ambientes realistas o fantásticos, así como el manejo
 ### Capturas de Pantalla
 Escenario virtual
 
-![Escenario virtual](imagenes/screenshot1.png)
+![Escenario virtual](Imagenes/screenshot1.png)
+![Escenario virtual](Imagenes/screenshot2.png)
+![Escenario virtual](Imagenes/screenshot3.png)
+![Escenario virtual](Imagenes/screenshot5.png)
+![Escenario virtual](Imagenes/screenshot6.png)
 
 ### Tecnologias
 Este proyecto fue realizado con:
@@ -32,6 +36,6 @@ Este proyecto fue realizado con:
 Los modelos fueron realizados en:
 * Maya
 * Blender
-
+* Ps
 ### Idioma
 Variables de modelos, y comentarios se realizaron en español. el resto en ingles.
