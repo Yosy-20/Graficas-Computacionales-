@@ -31,7 +31,7 @@ Escenario virtual
 ### Tecnologias
 Este proyecto fue realizado con:
 * C++
-* GLSL
+* OpenGL
 * C
 
 Los modelos fueron realizados en:
